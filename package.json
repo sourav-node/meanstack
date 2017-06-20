@@ -1,0 +1,27 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "MEAN is LOVE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-node/meanstack.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Sourav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav-node/meanstack/issues"
+  },
+  "homepage": "https://github.com/sourav-node/meanstack#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
